@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@now/node": "^1.0.2",
+    "@types/follow-redirects": "^1.8.0",
+    "@types/node": "^12.11.7",
+    "typescript": "^3.7.1-rc"
+  },
+  "dependencies": {
+    "@octokit/webhooks": "^6.3.2",
+    "follow-redirects": "^1.9.0"
+  }
+}
